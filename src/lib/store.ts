@@ -98,6 +98,8 @@ export const defaultSettings: Settings = {
   bobot_ujian: 40,
   custom_student_columns: [],
   holidays: [],
+  spreadsheetId: 'AKfycbxzepFFWOXAIjjxVztgScTIxxlmchUxbAm25j4ehDxw3nikblzzvtWA7By_fKS9Lkzf',
+  appsScriptUrl: 'https://script.google.com/macros/s/AKfycbxzepFFWOXAIjjxVztgScTIxxlmchUxbAm25j4ehDxw3nikblzzvtWA7By_fKS9Lkzf/exec'
 };
 
 let isNotificationPaused = false;
