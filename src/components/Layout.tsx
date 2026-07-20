@@ -85,7 +85,7 @@ export default function Layout({ user, role, onLogout, syncData, isSyncing, hasU
               <div className="w-8 h-8 bg-indigo-500 rounded-lg flex items-center justify-center shadow-lg shadow-indigo-500/20">
                 <Cloud className="text-white w-5 h-5" />
               </div>
-              <span className="tracking-tight">EduSync</span>
+              <span className="tracking-tight">Manajemen Kelas</span>
             </h2>
             <p className="text-xs text-slate-400 mt-1 pl-10">{settings?.nama_sekolah || 'Nama Sekolah Belum Diatur'}</p>
           </div>
